@@ -1,0 +1,11 @@
+body {
+    background: #efdbcf;
+}
+
+.container {
+}
+
+.content {
+  max-width: 900px;
+  margin: 12% auto;
+}
